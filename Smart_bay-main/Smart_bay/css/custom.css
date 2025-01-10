@@ -1,0 +1,403 @@
+﻿body {
+    background-image: url('../photos/ish/ish_bg.gif');
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.footerlinks:hover {
+    color: seagreen;
+}
+
+#footer {
+    background-color: #39faf7;
+}
+
+.buttonA {
+    background-color: seagreen;
+    border: none;
+    border-radius: 20px;
+    padding: 14px 40px;
+    font-size: 18px;
+    color: white;
+    margin-top: 30px;
+}
+
+.btn-log {
+    background-color: seagreen;
+}
+
+.title {
+    display: flex;
+    height: 88%;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.col_a {
+    flex-basis: 50%;
+}
+
+h1a {
+    color: #000000;
+    font-size: 30px;
+}
+
+h5a {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+.links {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.imgs {
+    margin-right: 20px;
+}
+
+svg {
+    margin-left: 24px;
+}
+
+.edit {
+    margin-left: 1180px;
+}
+
+.buttons1 {
+    margin-left: 1200px;
+}
+
+#buttonp {
+    width: 200px;
+}
+
+.container-body {
+    border: 1px gainsboro;
+    border-style: ridge;
+    border-radius: 8px;
+    padding: 40px;
+    background-color: gainsboro;
+    background: rgba(208, 209, 215, 0.4);
+}
+
+.d-block {
+    margin-left: 40px;
+    margin-right: 80px;
+    margin-top: 1px;
+    border: 1px solid rgb(11, 5, 4);
+    width: 94%;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.60), 0 17px 50px 0 rgba(0,0,0,0.39);
+}
+
+.carousel-item {
+    margin-left: 70px;
+    margin-right: -60px;
+    margin-top: 1px;
+    padding-left: -20px;
+    width: 92%;
+    text-align: center;
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.60), 0 17px 50px 0 rgba(0,0,0,0.39);
+}
+
+.navbar1 {
+    background-color: #002395;
+    color: white;
+}
+
+    .navbar1 li {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 1px 24px;
+        text-decoration: none;
+    }
+
+.nav-link1:hover {
+    color: #bcd4e6;
+}
+
+.nav-link1 {
+    color: white;
+    font-size: 16px;
+}
+
+.images4 {
+    margin-left: 160px;
+    margin-right: -400px;
+    margin-top: 80px;
+    width: 1200px;
+    height: 520px;
+    background-color: white;
+}
+
+.images5 {
+    margin-left: 160px;
+    margin-right: -400px;
+    margin-top: 10px;
+    width: 1200px;
+    height: 240px;
+    background-color: white;
+}
+
+.images6 {
+    margin-left: 60px;
+    margin-right: 4px;
+    margin-top: 8px;
+    width: 500px;
+    height: 220px;
+    background-color: gainsboro;
+}
+
+.images7 {
+    margin-left: 160px;
+    margin-right: -400px;
+    margin-top: 10px;
+    width: 1200px;
+    height: 290px;
+    background-color: white;
+}
+
+.texboxes {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: transparent;
+    width: auto;
+}
+
+.subTexboxes {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: transparent;
+    width: auto;
+}
+
+div.scroll {
+    background-color: #fed9ff;
+    width: 1160px;
+    height: 150px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.btn-group button {
+    background-color: #339cff;
+    border: 1px solid green;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+}
+
+    .btn-group button:not(:last-child) {
+        border-right: none;
+    }
+
+
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.btn-group button:hover {
+    background-color: #99ceff;
+}
+
+.alld {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.feed:hover {
+    transform: translateY(-10px);
+    flex-basis: 8%;
+    box-shadow: inset;
+    border-radius: 20px;
+}
+
+container3.card {
+    box-shadow: 4px 6px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    padding: 2rem 1rem;
+    max-width: 360px;
+    margin-left: 20px;
+}
+
+container3.car-body {
+    margin-left: 20px;
+    max-width: 200px;
+}
+
+.container3 {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+
+.container2 img {
+    text-align: center;
+    margin-left: 8px;
+    box-shadow: 4px 6px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    margin-left: -4px;
+    max-width: 90%;
+}
+
+.container6 {
+    margin-left: 40px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.container3.car-body {
+    min-height: 800px;
+    max-height: 800px;
+}
+
+.feed {
+    margin-left: 200px;
+}
+
+.item1 {
+    border-radius: 20px;
+}
+
+
+p1 {
+    color: seagreen;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+p1a {
+    color: white;
+    font-size: 15px;
+    line-height: 15px;
+}
+.cardHome {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+}
+
+    .cardHome:hover {
+        transform: translateY(-10px);
+    }
+
+.card1 {
+  
+    background-image: url('../photos/ish/ish_download1.jpg');
+}
+
+.card2 {
+    background-image: url('../photos/ish/ish_download2.jpg');
+}
+
+.card3 {
+    background-image: url('../photos/ish/ish_download3.jpg');
+}
+
+.card4 {
+    background-image: url('../photos/ish/ish_download4.jpg');
+}
+.card5 {
+    background-image: url('../photos/ish/ish_download4toy.jpg');
+}
+.card6 {
+    background-image: url('../photos/ish/ish_download5sta.jpg');
+}
+.card7 {
+    background-image: url('../photos/ish/ish_download6sale.png');
+}
+.blankstar {
+    background-image: url(images/s3.png);
+    width: 16px;
+    height: 16px;
+}
+
+.waitingstar {
+    background-image: url(images/s2.png);
+    width: 16px;
+    height: 16px;
+}
+
+.shiningstar {
+    background-image: url(images/s1.png);
+    width: 16px;
+    height: 16px;
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+
+body {
+    background-color: #eee;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.height {
+    height: 50vh;
+}
+
+
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+}
+
+    .search input {
+        height: 60px;
+        text-indent: 25px;
+        border: 2px solid #d6d4d4;
+    }
+
+
+        .search input:focus {
+            box-shadow: none;
+            border: 2px solid blue;
+        }
+
+    .search .fa-search {
+        position: absolute;
+        top: 20px;
+        left: 16px;
+    }
+
+    .search button {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        height: 50px;
+        width: 110px;
+        background: blue;
+    }
